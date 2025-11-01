@@ -15,12 +15,18 @@ Desarrollador de software enfocado en automatización, arquitectura de sistemas 
 
 ## 🛠️ Tecnologías y habilidades
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white)
+
 
 ---
 
@@ -50,4 +56,7 @@ Me apasiona construir sistemas confiables, limpios y escalables que beneficien a
 
 ## 📊 Estadísticas de GitHub
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinTomala&show_icons=true&theme=radical)
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinTomala&show_icons=true&theme=radical&hide=issues&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTomala&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=KevinTomala&theme=radical)
+
