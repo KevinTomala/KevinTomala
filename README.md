@@ -37,8 +37,8 @@ Desarrollador de software enfocado en automatización, arquitectura de sistemas 
 ## 📫 Contacto
 
 - 🌐 [kevintomala.github.io](https://kevintomala.github.io)
-- 📧 kevintomala.dev@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/kevintomala)
+- 📧 kevintomala.27@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-tomala-990616222)
 
 ---
 
