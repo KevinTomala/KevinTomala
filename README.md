@@ -1,7 +1,13 @@
 # 👋 Hola, soy Kevin Tomala
 
 **KevinTomala**  
-<img src="https://kevintomala.github.io/assets/kevinonda.jpg" alt="Kevin Tomala" width="100%" />
+<p align="center">
+  <img src="https://kevintomala.github.io/assets/kevinonda.jpg"
+       alt="Kevin Tomala"
+       width="100%"
+       style="object-fit: cover; height: 250px;" />
+</p>
+
 
 Desarrollador de software enfocado en automatización, arquitectura de sistemas académicos y soluciones escalables.
 
