@@ -1,6 +1,8 @@
 # 👋 Hola, soy Kevin Tomala
 
-**KevinTomala · he/him**  
+**KevinTomala**  
+<img src="https://kevintomala.github.io/assets/kevinonda.jpg" alt="Kevin Tomala" width="150" style="border-radius: 50%; box-shadow: 0 0 10px #aaa;" />
+
 Desarrollador de software enfocado en automatización, arquitectura de sistemas académicos y soluciones escalables.
 
 ---
@@ -56,7 +58,9 @@ Me apasiona construir sistemas confiables, limpios y escalables que beneficien a
 
 ## 📊 Estadísticas de GitHub
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinTomala&show_icons=true&theme=radical&hide=issues&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTomala&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinTomala&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTomala&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KevinTomala&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=KevinTomala&theme=radical)
+
 
