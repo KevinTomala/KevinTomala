@@ -21,7 +21,7 @@ Desarrollador de software enfocado en **automatización**, **arquitectura de sis
 Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evitando errores con validaciones y procesos automatizados.
 
 <p align="center">
-  <img src="https://kevintomala.github.io/assets/kevinonda.jpg" alt="Kevin Tomala" width="42%"/>
+  <img src="https://kevintomala.github.io/assets/kevinonda.jpg](https://raw.githubusercontent.com/KevinTomala/kevintomala.github.io/refs/heads/main/docs/assets/images/kevinonda.jpg" alt="Kevin Tomala" width="42%"/>
 </p>
 
 ---
@@ -79,19 +79,6 @@ Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evit
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
 </p>
-
-<p align="center">
-  <sub>🧊 Hologram UI • Minimal • Fast-loading</sub>
-</p>
-# 👋 Hola, soy Kevin Tomala
-
-**KevinTomala**  
-<p align="center">
-  <img src="https://kevintomala.github.io/assets/kevinonda.jpg"
-       alt="Kevin Tomala"
-       width="50%"/>
-</p>
-
 
 Desarrollador de software enfocado en automatización, arquitectura de sistemas académicos y soluciones escalables.
 
