@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Ing.%20Kevin%20Tomalá&width=950&height=100" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Ing.%20Kevin%20Tomalá&width=980&height=100" />
 </p>
 
 <p align="center">
