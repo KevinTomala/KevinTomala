@@ -62,8 +62,6 @@ Me apasiona construir sistemas confiables, limpios y escalables que beneficien a
 ---
 
 ## 📊 Estadísticas de GitHub
-## 📊 Estadísticas de GitHub
-
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KevinTomala&show_icons=true&theme=radical&cache_seconds=86400" />
 </p>
