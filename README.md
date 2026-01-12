@@ -38,9 +38,8 @@ Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evit
   https://kevintomala.github.io
 
 ---
-
 ## 🛠️ Tecnologías y habilidades
-<p align="center">
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -52,7 +51,6 @@ Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evit
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white)
-</p>
 
 ---
 
