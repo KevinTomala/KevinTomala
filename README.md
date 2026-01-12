@@ -16,6 +16,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
 </p>
+
 ### 👋 Sobre mí
 Desarrollador de software enfocado en **automatización**, **arquitectura de sistemas académicos** y **soluciones escalables**.  
 Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evitando errores con validaciones y procesos automatizados.
@@ -26,6 +27,7 @@ Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evit
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
 </p>
+
 ### 🚀 Proyectos destacados
 - 🔧 **Alpha Technologies** — Plataforma modular para soluciones empresariales  
   https://github.com/KevinTomala/alpha-technologies
@@ -38,8 +40,8 @@ Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evit
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
 </p>
-## 🛠️ Tecnologías y habilidades
 
+## 🛠️ Tecnologías y habilidades
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -54,6 +56,7 @@ Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evit
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
 </p>
+
 ### 🧠 Intereses
 - Automatización de flujos frontend/backend
 - Microservicios y módulos reutilizables
@@ -64,7 +67,7 @@ Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evit
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
 </p>
 
-### 📊 GitHub (estable)
+### 📊 GitHub 
 
 <p align="center">
   <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=KevinTomala&theme=radical&margin-w=15" />
