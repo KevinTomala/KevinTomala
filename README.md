@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00F5FF,100:9B00FF&amp;height=190&amp;section=header&amp;text=Kevin%20Tomala&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Software%20Developer%20%7C%20Automation%20%26%20Scalable%20Systems&amp;descAlignY=70" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:9B00FF&height=190&section=header&text=Kevin%20Tomala&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Automation%20%26%20Scalable%20Systems&descAlignY=70)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=900&amp;color=00F5FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Automation+%7C+Academic+Systems+%7C+Scalable+Solutions;Angular+%7C+Node.js+%7C+MySQL+%7C+Docker;Build+clean.+Build+fast.+Build+reliable." />
-</p>
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F5FF&center=true&vCenter=true&width=760&lines=Automation+%7C+Academic+Systems+%7C+Scalable+Solutions;Angular+%7C+Node.js+%7C+MySQL+%7C+Docker;Build+clean.+Build+fast.+Build+reliable.)
 
 
 <p align="center">
