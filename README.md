@@ -19,7 +19,7 @@
 
 ## 👋 Sobre mí
 
-| | |
+|:--|--:|
 | **Desarrollador de software** enfocado en **automatización**, **arquitectura de sistemas académicos** y **soluciones escalables**.<br><br>Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evitando errores con validaciones y procesos automatizados. | <img src="https://raw.githubusercontent.com/KevinTomala/kevintomala.github.io/refs/heads/main/docs/assets/images/kevinonda.jpg" width="260" /> |
 
 <p align="center">
