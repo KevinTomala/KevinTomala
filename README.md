@@ -63,7 +63,6 @@ Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evit
 ---
 
 ### 📊 GitHub (estable)
-> Evito “cards” inestables. Esta sección usa elementos que suelen cargar mejor.
 
 <p align="center">
   <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=KevinTomala&theme=radical&margin-w=15" />
@@ -80,14 +79,4 @@ Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evit
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
 </p>
 
-
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KevinTomala&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=KevinTomala&theme=radical&margin-w=15" />
-</p>
 
