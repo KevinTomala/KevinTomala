@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://github.com/KevinTomala.png" width="0" height="0" />
-</p>
-
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Kevin%20Tomala&width=800&height=200" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Kevin%20Tomala&width=800&height=150" />
 </p>
 
 <p align="center">
