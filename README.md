@@ -40,6 +40,8 @@
 </p>
 
 ## 🛠️ Tecnologías y habilidades
+
+<p align="center">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -51,6 +53,7 @@
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white)
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
 </p>
