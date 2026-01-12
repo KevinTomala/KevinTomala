@@ -62,12 +62,21 @@ Me apasiona construir sistemas confiables, limpios y escalables que beneficien a
 ---
 
 ## 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinTomala&show_icons=true&theme=radical&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KevinTomala&show_icons=true&theme=radical&cache_seconds=86400" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTomala&layout=compact&theme=radical&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KevinTomala&layout=compact&theme=radical&cache_seconds=86400" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KevinTomala&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KevinTomala&theme=radical&hide_border=true" />
+</p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=KevinTomala&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=KevinTomala&theme=radical&margin-w=15" />
+</p>
 
