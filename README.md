@@ -17,13 +17,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
 </p>
 
-### 👋 Sobre mí
-Desarrollador de software enfocado en **automatización**, **arquitectura de sistemas académicos** y **soluciones escalables**.  
-Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evitando errores con validaciones y procesos automatizados.
+## 👋 Sobre mí
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KevinTomala/kevintomala.github.io/refs/heads/main/docs/assets/images/kevinonda.jpg" alt="Kevin Tomala" width="25%"/>
-</p>
+| | |
+|:--|--:|
+| **Desarrollador de software** enfocado en **automatización**, **arquitectura de sistemas académicos** y **soluciones escalables**.<br><br>Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evitando errores con validaciones y procesos automatizados. | <img src="https://raw.githubusercontent.com/KevinTomala/kevintomala.github.io/refs/heads/main/docs/assets/images/kevinonda.jpg" width="260" /> |
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
 </p>
