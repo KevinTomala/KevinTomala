@@ -1,3 +1,93 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:9B00FF&height=190&section=header&text=Kevin%20Tomala&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Automation%20%26%20Scalable%20Systems&descAlignY=70" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F5FF&center=true&vCenter=true&width=760&lines=Automation+%7C+Academic+Systems+%7C+Scalable+Solutions;Angular+%7C+Node.js+%7C+MySQL+%7C+Docker;Build+clean.+Build+fast.+Build+reliable." />
+</p>
+
+<p align="center">
+  <a href="https://kevintomala.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-kevintomala.github.io-00F5FF?style=for-the-badge&logo=githubpages&logoColor=000" />
+  </a>
+  <a href="https://www.linkedin.com/in/kevin-tomala-990616222">
+    <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Tomala-9B00FF?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
+  <a href="mailto:kevintomala.27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kevintomala.27%40gmail.com-111?style=for-the-badge&logo=gmail&logoColor=fff" />
+  </a>
+</p>
+
+---
+
+### 👋 Sobre mí
+Desarrollador de software enfocado en **automatización**, **arquitectura de sistemas académicos** y **soluciones escalables**.  
+Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evitando errores con validaciones y procesos automatizados.
+
+<p align="center">
+  <img src="https://kevintomala.github.io/assets/kevinonda.jpg" alt="Kevin Tomala" width="42%"/>
+</p>
+
+---
+
+### 🚀 Proyectos destacados
+- 🔧 **Alpha Technologies** — Plataforma modular para soluciones empresariales  
+  https://github.com/KevinTomala/alpha-technologies
+
+- 📊 **Dashboard Académico** — Visualización y análisis de datos educativos  
+  https://github.com/KevinTomala/dashboard-academico
+
+- 🌐 **Portafolio Web** — Proyectos + perfil profesional  
+  https://kevintomala.github.io
+
+---
+
+### 🧩 Tech Stack (HUD)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-00F5FF?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-9B00FF?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Angular-00F5FF?style=for-the-badge&logo=angular&logoColor=000" />
+  <img src="https://img.shields.io/badge/React-9B00FF?style=for-the-badge&logo=react&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-00F5FF?style=for-the-badge&logo=node.js&logoColor=000" />
+  <img src="https://img.shields.io/badge/Express-9B00FF?style=for-the-badge&logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MySQL-00F5FF?style=for-the-badge&logo=mysql&logoColor=000" />
+  <img src="https://img.shields.io/badge/Docker-9B00FF?style=for-the-badge&logo=docker&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Linux-00F5FF?style=for-the-badge&logo=linux&logoColor=000" />
+  <img src="https://img.shields.io/badge/Git-9B00FF?style=for-the-badge&logo=git&logoColor=fff" />
+</p>
+
+---
+
+### 🧠 Intereses
+- Automatización de flujos frontend/backend
+- Microservicios y módulos reutilizables
+- Scripts de validación, limpieza y recuperación de datos
+- Soluciones multiplataforma para equipos distribuidos
+- Documentación clara y mejora continua
+
+---
+
+### 📊 GitHub (estable)
+> Evito “cards” inestables. Esta sección usa elementos que suelen cargar mejor.
+
+<p align="center">
+  <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=KevinTomala&theme=radical&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/KevinTomala?style=for-the-badge&label=Followers&color=00F5FF" />
+  <img src="https://img.shields.io/github/stars/KevinTomala?style=for-the-badge&label=Stars&color=9B00FF" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
+</p>
+
+<p align="center">
+  <sub>🧊 Hologram UI • Minimal • Fast-loading</sub>
+</p>
 # 👋 Hola, soy Kevin Tomala
 
 **KevinTomala**  
