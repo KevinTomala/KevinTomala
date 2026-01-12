@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Kevin%20Tomala&width=800&height=150" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Kevin%20Tomala&width=800&height=100" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ Desarrollador de software enfocado en **automatización**, **arquitectura de sis
 Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evitando errores con validaciones y procesos automatizados.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KevinTomala/kevintomala.github.io/refs/heads/main/docs/assets/images/kevinonda.jpg" alt="Kevin Tomala" width="42%"/>
+  <img src="https://raw.githubusercontent.com/KevinTomala/kevintomala.github.io/refs/heads/main/docs/assets/images/kevinonda.jpg" alt="Kevin Tomala" width="30%"/>
 </p>
 
 ---
@@ -59,8 +59,9 @@ Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evit
 - Scripts de validación, limpieza y recuperación de datos
 - Soluciones multiplataforma para equipos distribuidos
 - Documentación clara y mejora continua
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
+</p>
 
 ### 📊 GitHub (estable)
 
@@ -72,8 +73,6 @@ Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evit
   <img src="https://img.shields.io/github/followers/KevinTomala?style=for-the-badge&label=Followers&color=00F5FF" />
   <img src="https://img.shields.io/github/stars/KevinTomala?style=for-the-badge&label=Stars&color=9B00FF" />
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
