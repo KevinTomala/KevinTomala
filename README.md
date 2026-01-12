@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:9B00FF&height=190&section=header&text=Kevin%20Tomala&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Automation%20%26%20Scalable%20Systems&descAlignY=70&format=png" />
+  <img src="https://github.com/KevinTomala.png" width="0" height="0" />
 </p>
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Kevin%20Tomala&width=800&height=200" />
+</p>
 
 <p align="center">
   <a href="https://kevintomala.github.io">
