@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/Email-kevintomala.27%40gmail.com-111?style=for-the-badge&logo=gmail&logoColor=fff" />
   </a>
 </p>
-
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
+</p>
 ### 👋 Sobre mí
 Desarrollador de software enfocado en **automatización**, **arquitectura de sistemas académicos** y **soluciones escalables**.  
 Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evitando errores con validaciones y procesos automatizados.
@@ -23,9 +23,9 @@ Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evit
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinTomala/kevintomala.github.io/refs/heads/main/docs/assets/images/kevinonda.jpg" alt="Kevin Tomala" width="30%"/>
 </p>
-
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
+</p>
 ### 🚀 Proyectos destacados
 - 🔧 **Alpha Technologies** — Plataforma modular para soluciones empresariales  
   https://github.com/KevinTomala/alpha-technologies
@@ -35,8 +35,9 @@ Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evit
 
 - 🌐 **Portafolio Web** — Proyectos + perfil profesional  
   https://kevintomala.github.io
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
+</p>
 ## 🛠️ Tecnologías y habilidades
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -50,9 +51,9 @@ Me gusta construir sistemas **limpios, confiables y fáciles de mantener**, evit
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=white)
-
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:9B00FF&height=2&section=footer" />
+</p>
 ### 🧠 Intereses
 - Automatización de flujos frontend/backend
 - Microservicios y módulos reutilizables
