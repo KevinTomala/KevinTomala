@@ -63,9 +63,11 @@ Me apasiona construir sistemas confiables, limpios y escalables que beneficien a
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinTomala&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTomala&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=KevinTomala&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=KevinTomala&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinTomala&show_icons=true&theme=radical&cache_seconds=86400)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinTomala&layout=compact&theme=radical&cache_seconds=86400)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KevinTomala&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=KevinTomala&theme=radical)
 
